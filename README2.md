@@ -1,1 +1,1 @@
-
+Durante este módulo, aprendi sobre o possível tempo de inatividade referente as porcentagens de um SLA, criação de uma máquina virtual especificando as opções de disponibilidade, envolvendo a replicação de dados
